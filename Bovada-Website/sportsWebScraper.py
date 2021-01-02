@@ -37,7 +37,7 @@ if __name__ == '__main__':
             match['teams'] = teams
             match['spread'] = spread
             match['win'] = win
-            match[total] = total
+            match['total'] = total
             matches.append(match)
         print ("-------------------------------------------------------")
         jsondict['matches'] = matches
@@ -49,6 +49,5 @@ if __name__ == '__main__':
     with open("sample.json") as readfile:
         data = json.load(readfile)
         print(data)
-    print(jsonmain)
     print('END')
     

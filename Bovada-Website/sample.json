@@ -7,42 +7,42 @@
                 "teams": "GC Busan Spear\nCloud9\n+ 1 Bets",
                 "spread": "",
                 "win": "+150\n-200",
-                "": ""
+                "total": ""
             },
             {
                 "timestamp": "1/3/21\n11:00 AM",
                 "teams": "SGA eSPORTS\nTalon\n+ 1 Bets",
                 "spread": "",
                 "win": "-125\n-110",
-                "": ""
+                "total": ""
             },
             {
                 "timestamp": "1/3/21\n1:00 PM",
                 "teams": "Faust\nFriendlyFire Clan\n+ 1 Bets",
                 "spread": "",
                 "win": "-290\n+210",
-                "": ""
+                "total": ""
             },
             {
                 "timestamp": "1/6/21\n3:00 PM",
                 "teams": "SGA eSPORTS\nOHHAMMA\n+ 1 Bets",
                 "spread": "",
                 "win": "-145\n+110",
-                "": ""
+                "total": ""
             },
             {
                 "timestamp": "1/6/21\n4:00 PM",
                 "teams": "Cloud9\nFaust\n+ 1 Bets",
                 "spread": "",
                 "win": "-450\n+310",
-                "": ""
+                "total": ""
             },
             {
                 "timestamp": "1/6/21\n5:00 PM",
                 "teams": "Talon\nGC Busan Spear\n+ 1 Bets",
                 "spread": "",
                 "win": "+155\n-215",
-                "": ""
+                "total": ""
             }
         ]
     },
@@ -54,168 +54,168 @@
                 "teams": "Galaxy Racer Esports\nRix.GG\n+ 7 Bets",
                 "spread": "-1.5 (-240)\n+1.5 (+175)",
                 "win": "-650\n+395",
-                "O3.5 (-195)\nU3.5 (+145)": "O3.5 (-195)\nU3.5 (+145)"
+                "total": "O3.5 (-195)\nU3.5 (+145)"
             },
             {
                 "timestamp": "1/2/21\n9:00 PM",
                 "teams": "Guild Esports\nRenault Vitality\n+ 7 Bets",
                 "spread": "+1.5 (-135)\n-1.5 (EVEN)",
                 "win": "+155\n-210",
-                "O4.5 (+160)\nU4.5 (-215)": "O4.5 (+160)\nU4.5 (-215)"
+                "total": "O4.5 (+160)\nU4.5 (-215)"
             },
             {
                 "timestamp": "1/2/21\n9:00 PM",
                 "teams": "Oxygen\nEndpoint\n+ 7 Bets",
                 "spread": "+1.5 (-220)\n-1.5 (+165)",
                 "win": "EVEN\n-130",
-                "O4.5 (+145)\nU4.5 (-200)": "O4.5 (+145)\nU4.5 (-200)"
+                "total": "O4.5 (+145)\nU4.5 (-200)"
             },
             {
                 "timestamp": "1/2/21\n9:00 PM",
                 "teams": "Top Blokes\nWolves eSports\n+ 7 Bets",
                 "spread": "-1.5 (-240)\n+1.5 (+175)",
-                "win": "-800\n+425",
-                "O3.5 (-200)\nU3.5 (+145)": "O3.5 (-200)\nU3.5 (+145)"
+                "win": "-650\n+380",
+                "total": "O3.5 (-200)\nU3.5 (+145)"
             },
             {
                 "timestamp": "1/2/21\n10:00 PM",
                 "teams": "BDS Esport\nTriple Trouble\n+ 7 Bets",
                 "spread": "-1.5 (-185)\n+1.5 (+135)",
                 "win": "-475\n+310",
-                "O3.5 (-240)\nU3.5 (+175)": "O3.5 (-240)\nU3.5 (+175)"
+                "total": "O3.5 (-240)\nU3.5 (+175)"
             },
             {
                 "timestamp": "1/2/21\n10:00 PM",
                 "teams": "Galaxy Racer Esports\nEndpoint\n+ 7 Bets",
                 "spread": "-1.5 (+120)\n+1.5 (-160)",
                 "win": "-180\n+130",
-                "O4.5 (+155)\nU4.5 (-205)": "O4.5 (+155)\nU4.5 (-205)"
+                "total": "O4.5 (+155)\nU4.5 (-205)"
             },
             {
                 "timestamp": "1/2/21\n10:00 PM",
                 "teams": "Giants Gaming\nDignitas\n+ 7 Bets",
                 "spread": "-1.5 (+165)\n+1.5 (-220)",
                 "win": "-130\n-105",
-                "O4.5 (+145)\nU4.5 (-200)": "O4.5 (+145)\nU4.5 (-200)"
+                "total": "O4.5 (+145)\nU4.5 (-200)"
             },
             {
                 "timestamp": "1/2/21\n10:00 PM",
                 "teams": "Guild Esports\nWolves eSports\n+ 7 Bets",
                 "spread": "-1.5 (-220)\n+1.5 (+165)",
-                "win": "-575\n+365",
-                "O3.5 (-195)\nU3.5 (+145)": "O3.5 (-195)\nU3.5 (+145)"
+                "win": "-575\n+345",
+                "total": "O3.5 (-195)\nU3.5 (+145)"
             },
             {
                 "timestamp": "1/2/21\n10:00 PM",
                 "teams": "Oxygen\nRix.GG\n+ 7 Bets",
                 "spread": "-1.5 (-185)\n+1.5 (+135)",
-                "win": "-475\n+310",
-                "O3.5 (-240)\nU3.5 (+175)": "O3.5 (-240)\nU3.5 (+175)"
+                "win": "-385\n+280",
+                "total": "O3.5 (-240)\nU3.5 (+175)"
             },
             {
                 "timestamp": "1/2/21\n10:00 PM",
                 "teams": "Redemption POA\nFadeaway\n+ 7 Bets",
                 "spread": "-1.5 (+165)\n+1.5 (-220)",
                 "win": "-135\nEVEN",
-                "O4.5 (+145)\nU4.5 (-200)": "O4.5 (+145)\nU4.5 (-200)"
+                "total": "O4.5 (+145)\nU4.5 (-200)"
             },
             {
                 "timestamp": "1/2/21\n10:00 PM",
                 "teams": "Singularity\nTeam Liquid\n+ 7 Bets",
                 "spread": "-1.5 (+135)\n+1.5 (-185)",
                 "win": "-155\n+115",
-                "O4.5 (+150)\nU4.5 (-200)": "O4.5 (+150)\nU4.5 (-200)"
+                "total": "O4.5 (+150)\nU4.5 (-200)"
             },
             {
                 "timestamp": "1/2/21\n10:00 PM",
                 "teams": "Top Blokes\nRenault Vitality\n+ 7 Bets",
                 "spread": "+1.5 (-185)\n-1.5 (+135)",
                 "win": "+115\n-155",
-                "O4.5 (+150)\nU4.5 (-200)": "O4.5 (+150)\nU4.5 (-200)"
+                "total": "O4.5 (+150)\nU4.5 (-200)"
             },
             {
                 "timestamp": "1/2/21\n11:00 PM",
                 "teams": "BDS Esport\nTeam Liquid\n+ 7 Bets",
                 "spread": "-1.5 (-160)\n+1.5 (+120)",
-                "win": "-385\n+260",
-                "O4.5 (+190)\nU4.5 (-265)": "O4.5 (+190)\nU4.5 (-265)"
+                "win": "-385\n+265",
+                "total": "O3.5 (-260)\nU3.5 (+190)"
             },
             {
                 "timestamp": "1/2/21\n11:00 PM",
                 "teams": "Endpoint\nRix.GG\n+ 7 Bets",
                 "spread": "-1.5 (-220)\n+1.5 (+165)",
                 "win": "-575\n+360",
-                "O3.5 (-200)\nU3.5 (+150)": "O3.5 (-200)\nU3.5 (+150)"
+                "total": "O3.5 (-200)\nU3.5 (+150)"
             },
             {
                 "timestamp": "1/2/21\n11:00 PM",
                 "teams": "Galaxy Racer Esports\nOxygen\n+ 7 Bets",
                 "spread": "-1.5 (+135)\n+1.5 (-185)",
                 "win": "-155\n+115",
-                "O4.5 (+150)\nU4.5 (-200)": "O4.5 (+150)\nU4.5 (-200)"
+                "total": "O4.5 (+150)\nU4.5 (-200)"
             },
             {
                 "timestamp": "1/2/21\n11:00 PM",
                 "teams": "Giants Gaming\nFadeaway\n+ 7 Bets",
                 "spread": "-1.5 (-110)\n+1.5 (-125)",
                 "win": "-235\n+175",
-                "O4.5 (+165)\nU4.5 (-225)": "O4.5 (+165)\nU4.5 (-225)"
+                "total": "O4.5 (+165)\nU4.5 (-225)"
             },
             {
                 "timestamp": "1/2/21\n11:00 PM",
                 "teams": "Redemption POA\nDignitas\n+ 7 Bets",
                 "spread": "+1.5 (-185)\n-1.5 (+135)",
                 "win": "+115\n-155",
-                "O4.5 (+150)\nU4.5 (-200)": "O4.5 (+150)\nU4.5 (-200)"
+                "total": "O4.5 (+150)\nU4.5 (-200)"
             },
             {
                 "timestamp": "1/2/21\n11:00 PM",
                 "teams": "Renault Vitality\nWolves eSports\n+ 6 Bets",
                 "spread": "-1.5 (-240)\n+1.5 (+175)",
                 "win": "-800\n+450",
-                "O3.5 (-190)\nU3.5 (+140)": "O3.5 (-190)\nU3.5 (+140)"
+                "total": "O3.5 (-190)\nU3.5 (+140)"
             },
             {
                 "timestamp": "1/2/21\n11:00 PM",
                 "teams": "Singularity\nTriple Trouble\n+ 7 Bets",
                 "spread": "-1.5 (+120)\n+1.5 (-160)",
                 "win": "-180\n+130",
-                "O4.5 (+150)\nU4.5 (-205)": "O4.5 (+150)\nU4.5 (-205)"
+                "total": "O4.5 (+150)\nU4.5 (-205)"
             },
             {
                 "timestamp": "1/2/21\n11:00 PM",
                 "teams": "Top Blokes\nGuild Esports\n+ 7 Bets",
                 "spread": "-1.5 (+135)\n+1.5 (-185)",
                 "win": "-155\n+115",
-                "O4.5 (+150)\nU4.5 (-200)": "O4.5 (+150)\nU4.5 (-200)"
+                "total": "O4.5 (+150)\nU4.5 (-200)"
             },
             {
                 "timestamp": "1/3/21\n12:00 AM",
                 "teams": "Dignitas\nFadeaway\n+ 7 Bets",
                 "spread": "-1.5 (EVEN)\n+1.5 (-135)",
                 "win": "-220\n+160",
-                "O4.5 (+165)\nU4.5 (-225)": "O4.5 (+165)\nU4.5 (-225)"
+                "total": "O4.5 (+165)\nU4.5 (-225)"
             },
             {
                 "timestamp": "1/3/21\n12:00 AM",
                 "teams": "Redemption POA\nVodafone Giants\n+ 7 Bets",
                 "spread": "+1.5 (EVEN)\n-1.5 (-135)",
                 "win": "+235\n-335",
-                "O4.5 (+180)\nU4.5 (-250)": "O4.5 (+180)\nU4.5 (-250)"
+                "total": "O4.5 (+180)\nU4.5 (-250)"
             },
             {
                 "timestamp": "1/3/21\n12:00 AM",
                 "teams": "Singularity\nBDS Esport\n+ 7 Bets",
                 "spread": "+1.5 (-115)\n-1.5 (-115)",
                 "win": "+205\n-300",
-                "O4.5 (+170)\nU4.5 (-230)": "O4.5 (+170)\nU4.5 (-230)"
+                "total": "O4.5 (+170)\nU4.5 (-230)"
             },
             {
                 "timestamp": "1/3/21\n12:00 AM",
                 "teams": "Triple Trouble\nTeam Liquid\n+ 7 Bets",
                 "spread": "+1.5 (-160)\n-1.5 (+120)",
                 "win": "+135\n-180",
-                "O4.5 (+155)\nU4.5 (-210)": "O4.5 (+155)\nU4.5 (-210)"
+                "total": "O4.5 (+155)\nU4.5 (-210)"
             }
         ]
     },
@@ -227,112 +227,112 @@
                 "teams": "EUnited\nKansas City Pioneers\n+ 7 Bets",
                 "spread": "-1.5 (+175)\n+1.5 (-240)",
                 "win": "-115\n-115",
-                "O4.5 (+145)\nU4.5 (-200)": "O4.5 (+145)\nU4.5 (-200)"
+                "total": "O4.5 (+145)\nU4.5 (-200)"
             },
             {
                 "timestamp": "1/8/21\n3:00 AM",
                 "teams": "NRG\nJamal Jabary\n+ 7 Bets",
                 "spread": "-1.5 (-240)\n+1.5 (+175)",
                 "win": "-800\n+450",
-                "O3.5 (-190)\nU3.5 (+140)": "O3.5 (-190)\nU3.5 (+140)"
+                "total": "O3.5 (-190)\nU3.5 (+140)"
             },
             {
                 "timestamp": "1/8/21\n3:00 AM",
                 "teams": "Rogue\nPIT Knights\n+ 7 Bets",
                 "spread": "-1.5 (+135)\n+1.5 (-185)",
                 "win": "-155\n+115",
-                "O4.5 (+150)\nU4.5 (-200)": "O4.5 (+150)\nU4.5 (-200)"
+                "total": "O4.5 (+150)\nU4.5 (-200)"
             },
             {
                 "timestamp": "1/8/21\n3:00 AM",
                 "teams": "SpaceStation Gaming\nAlpine Esports\n+ 7 Bets",
                 "spread": "-1.5 (-135)\n+1.5 (EVEN)",
                 "win": "-345\n+235",
-                "O4.5 (+180)\nU4.5 (-250)": "O4.5 (+180)\nU4.5 (-250)"
+                "total": "O4.5 (+180)\nU4.5 (-250)"
             },
             {
                 "timestamp": "1/8/21\n4:00 AM",
                 "teams": "EUnited\nJamal Jabary\n+ 7 Bets",
                 "spread": "-1.5 (-110)\n+1.5 (-125)",
                 "win": "-235\n+170",
-                "O4.5 (+160)\nU4.5 (-220)": "O4.5 (+160)\nU4.5 (-220)"
+                "total": "O4.5 (+160)\nU4.5 (-220)"
             },
             {
                 "timestamp": "1/8/21\n4:00 AM",
                 "teams": "Envy\nGhost Gaming\n+ 7 Bets",
                 "spread": "-1.5 (-160)\n+1.5 (+120)",
                 "win": "-375\n+255",
-                "O4.5 (+185)\nU4.5 (-250)": "O4.5 (+185)\nU4.5 (-250)"
+                "total": "O4.5 (+185)\nU4.5 (-250)"
             },
             {
                 "timestamp": "1/8/21\n4:00 AM",
                 "teams": "G2\nContinuum\n+ 7 Bets",
                 "spread": "-1.5 (-115)\n+1.5 (-115)",
                 "win": "-290\n+205",
-                "O4.5 (+175)\nU4.5 (-245)": "O4.5 (+175)\nU4.5 (-245)"
+                "total": "O4.5 (+175)\nU4.5 (-245)"
             },
             {
                 "timestamp": "1/8/21\n4:00 AM",
                 "teams": "Nrg\nKansas City Pioneers\n+ 6 Bets",
                 "spread": "-1.5 (-185)\n+1.5 (+135)",
                 "win": "-500\n+325",
-                "": ""
+                "total": ""
             },
             {
                 "timestamp": "1/8/21\n4:00 AM",
                 "teams": "SpaceStation Gaming\nPIT Knights\n+ 7 Bets",
                 "spread": "-1.5 (-115)\n+1.5 (-115)",
                 "win": "-300\n+210",
-                "O4.5 (+175)\nU4.5 (-235)": "O4.5 (+175)\nU4.5 (-235)"
+                "total": "O4.5 (+175)\nU4.5 (-235)"
             },
             {
                 "timestamp": "1/8/21\n4:00 AM",
                 "teams": "Susquehanna Soniqs\nVersion1\n+ 7 Bets",
                 "spread": "+1.5 (-220)\n-1.5 (+165)",
                 "win": "EVEN\n-130",
-                "O4.5 (+145)\nU4.5 (-200)": "O4.5 (+145)\nU4.5 (-200)"
+                "total": "O4.5 (+145)\nU4.5 (-200)"
             },
             {
                 "timestamp": "1/8/21\n4:00 AM",
                 "teams": "The Peeps\nCharlotte Phoenix\n+ 7 Bets",
                 "spread": "-1.5 (-110)\n+1.5 (-125)",
                 "win": "-240\n+175",
-                "O4.5 (+165)\nU4.5 (-225)": "O4.5 (+165)\nU4.5 (-225)"
+                "total": "O4.5 (+165)\nU4.5 (-225)"
             },
             {
                 "timestamp": "1/8/21\n5:00 AM",
                 "teams": "Envy\nCharlotte Phoenix\n+ 7 Bets",
                 "spread": "-1.5 (-160)\n+1.5 (+120)",
                 "win": "-385\n+265",
-                "O4.5 (+190)\nU4.5 (-265)": "O4.5 (+190)\nU4.5 (-265)"
+                "total": "O4.5 (+190)\nU4.5 (-265)"
             },
             {
                 "timestamp": "1/8/21\n5:00 AM",
                 "teams": "G2\nVersion1\n+ 7 Bets",
                 "spread": "-1.5 (-110)\n+1.5 (-125)",
                 "win": "-235\n+170",
-                "O4.5 (+165)\nU4.5 (-225)": "O4.5 (+165)\nU4.5 (-225)"
+                "total": "O4.5 (+165)\nU4.5 (-225)"
             },
             {
                 "timestamp": "1/8/21\n5:00 AM",
                 "teams": "Nrg\nEUnited\n+ 6 Bets",
                 "spread": "-1.5 (-185)\n+1.5 (+135)",
                 "win": "-500\n+325",
-                "": ""
+                "total": ""
             },
             {
                 "timestamp": "1/8/21\n5:00 AM",
                 "teams": "PIT Knights\nAlpine Esports\n+ 6 Bets",
                 "spread": "-1.5 (+120)\n+1.5 (-160)",
                 "win": "-180\n+135",
-                "O4.5 (+155)\nU4.5 (-210)": "O4.5 (+155)\nU4.5 (-210)"
+                "total": "O4.5 (+155)\nU4.5 (-210)"
             },
             {
                 "timestamp": "1/8/21\n5:00 AM",
                 "teams": "Pittsburgh Knights\nAlpine Esports\n+ 6 Bets",
                 "spread": "-1.5 (+120)\n+1.5 (-160)",
                 "win": "-185\n+135",
-                "": ""
+                "total": ""
             }
         ]
     },
@@ -344,28 +344,28 @@
                 "teams": "NRG\nKansas City Pioneers\n+ 6 Bets",
                 "spread": "-1.5 (-185)\n+1.5 (+135)",
                 "win": "-475\n+300",
-                "O3.5 (-250)\nU3.5 (+180)": "O3.5 (-250)\nU3.5 (+180)"
+                "total": "O3.5 (-250)\nU3.5 (+180)"
             },
             {
                 "timestamp": "1/8/21\n4:00 AM",
                 "teams": "Rogue\nAlpine Esports\n+ 7 Bets",
                 "spread": "-1.5 (-115)\n+1.5 (-115)",
                 "win": "-300\n+210",
-                "O4.5 (+175)\nU4.5 (-235)": "O4.5 (+175)\nU4.5 (-235)"
+                "total": "O4.5 (+175)\nU4.5 (-235)"
             },
             {
                 "timestamp": "1/8/21\n5:00 AM",
                 "teams": "Kansas City Pioneers\nJamal Jabary\n+ 7 Bets",
                 "spread": "-1.5 (-110)\n+1.5 (-125)",
                 "win": "-230\n+170",
-                "O4.5 (+160)\nU4.5 (-220)": "O4.5 (+160)\nU4.5 (-220)"
+                "total": "O4.5 (+160)\nU4.5 (-220)"
             },
             {
                 "timestamp": "1/8/21\n5:00 AM",
                 "teams": "NRG\nEUnited\n+ 6 Bets",
                 "spread": "-1.5 (-185)\n+1.5 (+135)",
                 "win": "-425\n+285",
-                "O3.5 (-260)\nU3.5 (+185)": "O3.5 (-260)\nU3.5 (+185)"
+                "total": "O3.5 (-260)\nU3.5 (+185)"
             }
         ]
     }
