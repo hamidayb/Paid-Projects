@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    background-color: #E5E5E5;
+    font-family: var(--rubik);
+}
+
+:root {
+    --rubik: 'Rubik', sans-serif;
+}
+
+table{
+    margin: auto;
+}
+
+#date-time-div{
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin: 10px 0px;
+    padding: 3px 10px;
+    background-color: white;
+    font-size: 14px;
+}
+
+#date{
+    float: left;
+    padding-right: 20px;
+    border-right: 1px solid #C8C4C4;
+}
+
+#time{
+    padding: 20px;
+}
+#bets{
+    padding-left: 40px;
+    border-left: 1px solid #C8C4C4;
+    float: right;
+}
+
+a{
+    display: flex;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    justify-content: space-between;
+}
+h2{
+    margin: none;
+    padding: none;
+}
+
+.team{
+    padding: 10px 20px;
+    background-color: white;
+    border-radius: 10px;
+    width: 180px;
+}
+#team1{
+    background-color: #89afe7;
+    margin-right: 10px;
+}
+#team2{
+    background-color: #ff9b85;
+}
+.team span{
+    line-height: 140%;
+    font-size: 14px;
+}
+#team1-name, #team2-name{
+    line-height: 200%; 
+    font-size: 16px; 
+    font-weight: bold;
+}
