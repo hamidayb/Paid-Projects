@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    background-color: rgb(15, 15, 15);
+    font-family: var(--rubik);
+}
+
+:root {
+    /* FONT STYLE */
+    --rubik: 'Rubik', sans-serif;
+
+    /* COLORS */
+    --orange: #eb8c34; 
+    --dark-gray: black;
+    --light-grey: #cfcfcf;
+}
+
+#header {
+    overflow: hidden;
+    background-color: black;
+    text-align: center;
+    top: 0;
+    width: 100%;
+}
+
+img{
+    height: 13vh;
+}
+
+#next-events{
+    margin: auto;
+}
+h2{
+    color: var(--orange);   
+}
+#heading-div{
+    margin-bottom: 2rem;
+}
+
+#date-time-div{
+    border: 1px solid grey;
+    color: var(--light-grey);
+    background-color: var(--dark-gray);
+    border-radius: 5px;
+    margin: 5px 0px;
+    padding: 3px 10px;
+    font-size: 14px;
+}
+
+#date{
+    float: left;
+    padding-right: 20px;
+    border-right: 1px solid #C8C4C4;
+}
+
+#time{
+    padding: 20px;
+}
+#bets{
+    padding-left: 40px;
+    border-left: 1px solid #C8C4C4;
+    float: right;
+}
+
+a{
+    display: flex;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    justify-content: space-between;
+}
+h2{
+    margin: none;
+    padding: none;
+}
+
+.team{
+    padding: 10px 20px;
+    background-color: white;
+    border-radius: 10px;
+    width: 250px;
+    background-color: var(--light-grey);
+}
+#team1{
+    margin-right: 10px;
+}
+.team span{
+    line-height: 140%;
+    font-size: 14px;
+}
+#team1-name, #team2-name{
+    line-height: 200%; 
+    font-size: 16px; 
+    font-weight: bold;
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: grey;
+    text-align: center;
+    padding: 5px;
+}
